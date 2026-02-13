@@ -4,6 +4,8 @@ from dataImport import DataImporter
 
 dataList = DataImporter("./data/dataList.csv").load()
 
+st.set_page_config(layout="wide")
+
 st.title("Reading List")
 
 with st.sidebar:

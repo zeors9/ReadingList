@@ -1,28 +1,36 @@
 ﻿TitleName,AuthorNames,URLString,TypeName,TagNames
-The beauty of data visualization,David McCandless,https://youtu.be/5Zg-C8AAIGg,YouTube Video,#data|#visualization|#TED|#
-InformationIsBeatuiful.net,David McCandless,https://informationisbeautiful.net/,Website,#data|#visualization
-Knowledge Is Beautiful,David McCandless,https://a.co/d/02N5kHMy,Book,#data|#visualization
-Storytelling with Data,Cole Nussbaumer Knaflic,https://youtu.be/8EMW7io4rSI,YouTube Video,#data|#visualization|#GoogleTalks
-Storytelling with Data,Cole Nussbaumer Knaflic,https://a.co/d/05CGhdin,Book,#data|#visualization
-The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling,Ralph Kimball|Margy Ross,https://a.co/d/03dv8UXW,Book,#data|#modeling
-Kimball Group,Ralph Kimball|Margy Ross|Bob Becker|Julie Kimball|Joy Mundy|Nancy Rinn|Warren Thornthwaite,https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/,Website,#data|#modeling
-The Pragmatic Programmer: Your Journey To Mastery,David Thomas|Andrew Hunt,https://a.co/d/0iZ2MNHn,Book,#programming
-Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert Martin,https://a.co/d/072DBZvX,Book,#programming
-Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,https://a.co/d/09SEPfii,Book,#programming
-Clean Agile: Back to Basics,Robert Martin,https://a.co/d/0eaEskri,Book,#programming|#agile|#projectManagement
-Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones),Marianne Bellotti,https://a.co/d/01JPI3Mx,Book,#programming
-The Product is Docs: Writing technical documentation in a product development group,Christopher Gales|Splunk Documentation Team,https://a.co/d/01pl8Zm7,Book,#programming|#documentation
-A Philosophy of Software Design,John Ousterhout,https://a.co/d/0gM5pY5j,Book,#programming
-"Mythical Man-Month, The: Essays on Software Engineering",Frederick Brooks Jr.,https://a.co/d/0bGT3jIx,Book,#programming|#projectManagement
-Software Estimation: Demystifying the Black Art (Developer Best Practices),Steve McConnell,https://a.co/d/01TCrkIi,Book,#programming|#projectManagement
-"Sockets, Sparks, and Magic Smoke",Dylan Beattie,https://youtu.be/pKavkFkegGY,YouTube Video,#programming|#NDC
-"Email vs Capitalism, or, Why We Can't Have Nice Things",Dylan Beattie,https://youtu.be/mrGfahzt-4Q,YouTube Video,#programming|#NDC
-Plain Text,Dylan Beattie,https://youtu.be/_mZBa3sqTrI,YouTube Video,#programming|#NDC
-Failure is Always an Option,Dylan Beattie,https://youtu.be/Vk2fi7NZ3OQ,YouTube Video,#programming|#NDC
-Architecture: The Stuff That's Hard to Change,Dylan Beattie,https://youtu.be/3LtQWxhqjqI,YouTube Video,#programming|#NDC
-The Early Days of id Software: Programming Principles,John Romero,https://youtu.be/IzqdZAYcwfY,YouTube Video,#programming
-Refactoring Is Not Just Clickbait,Kevlin Henney,https://youtu.be/NMPeAW2RWdc,YouTube Video,#programming|#NDC
-Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks,Kevlin Henney,https://youtu.be/FyCYva9DhsI,YouTube Video,#programming|#NDC
-Technical Neglect,Kevlin Henney,https://youtu.be/9iLxR1h2208,YouTube Video,#programming|#NDC
-Modular Monoliths and Other Facepalms,Kevlin Henney,https://youtu.be/4qfsmE11Ejo,YouTube Video,#programming|#NDC
-Adventures in Spacetime,Kevlin Henney,https://youtu.be/AMkzXZKRlvE,YouTube Video,#programming|#NDC
+The beauty of data visualization,David McCandless,https://youtu.be/5Zg-C8AAIGg,YouTube Video,data|visualization|TED
+InformationIsBeatuiful.net,David McCandless,https://informationisbeautiful.net/,Website,data|visualization
+Knowledge Is Beautiful,David McCandless,https://a.co/d/02N5kHMy,Book,data|visualization
+Storytelling with Data,Cole Nussbaumer Knaflic,https://youtu.be/8EMW7io4rSI,YouTube Video,data|visualization|GoogleTalks
+Storytelling with Data,Cole Nussbaumer Knaflic,https://a.co/d/05CGhdin,Book,data|visualization
+The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling,Ralph Kimball|Margy Ross,https://a.co/d/03dv8UXW,Book,data|modeling
+Kimball Group,Ralph Kimball|Margy Ross|Bob Becker|Julie Kimball|Joy Mundy|Nancy Rinn|Warren Thornthwaite,https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/,Website,data|modeling
+The Pragmatic Programmer: Your Journey To Mastery,David Thomas|Andrew Hunt,https://a.co/d/0iZ2MNHn,Book,programming
+Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert Martin,https://a.co/d/072DBZvX,Book,programming
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,https://a.co/d/09SEPfii,Book,programming
+Clean Agile: Back to Basics,Robert Martin,https://a.co/d/0eaEskri,Book,programming|agile|projectManagement
+Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones),Marianne Bellotti,https://a.co/d/01JPI3Mx,Book,programming
+The Product is Docs: Writing technical documentation in a product development group,Christopher Gales|Splunk Documentation Team,https://a.co/d/01pl8Zm7,Book,programming|documentation
+A Philosophy of Software Design,John Ousterhout,https://a.co/d/0gM5pY5j,Book,programming
+"Mythical Man-Month, The: Essays on Software Engineering",Frederick Brooks Jr.,https://a.co/d/0bGT3jIx,Book,programming|projectManagement
+Software Estimation: Demystifying the Black Art (Developer Best Practices),Steve McConnell,https://a.co/d/01TCrkIi,Book,programming|projectManagement
+"Sockets, Sparks, and Magic Smoke",Dylan Beattie,https://youtu.be/pKavkFkegGY,YouTube Video,programming|NDC
+"Email vs Capitalism, or, Why We Can't Have Nice Things",Dylan Beattie,https://youtu.be/mrGfahzt-4Q,YouTube Video,programming|NDC
+Plain Text,Dylan Beattie,https://youtu.be/_mZBa3sqTrI,YouTube Video,programming|NDC
+Failure is Always an Option,Dylan Beattie,https://youtu.be/Vk2fi7NZ3OQ,YouTube Video,programming|NDC
+Architecture: The Stuff That's Hard to Change,Dylan Beattie,https://youtu.be/3LtQWxhqjqI,YouTube Video,programming|NDC
+Computational Creativity,Dylan Beattie,https://youtu.be/YPYks7lBKSY,YouTube Video,programming|NDC
+The Early Days of id Software: Programming Principles,John Romero,https://youtu.be/IzqdZAYcwfY,YouTube Video,programming
+Refactoring Is Not Just Clickbait,Kevlin Henney,https://youtu.be/NMPeAW2RWdc,YouTube Video,programming|NDC
+Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks,Kevlin Henney,https://youtu.be/FyCYva9DhsI,YouTube Video,programming|NDC
+Technical Neglect,Kevlin Henney,https://youtu.be/9iLxR1h2208,YouTube Video,programming|NDC
+Modular Monoliths and Other Facepalms,Kevlin Henney,https://youtu.be/4qfsmE11Ejo,YouTube Video,programming|NDC
+Adventures in Spacetime,Kevlin Henney,https://youtu.be/AMkzXZKRlvE,YouTube Video,programming|NDC
+A Brief History of Data Visualization,Jeffrey Heer,https://youtu.be/N00g9Q9stBo,YouTube Video,data|visualization|long
+Using Design Techniques for Clear and Appealing Data Visualization,nullQueries,https://youtu.be/0Smgm2UTUSo,YouTube Video,data|visualization
+YOU'RE VISUALIZING YOUR DATA WRONG. And Here's Why...,Adam Finer,https://youtu.be/5pCdw-PV0Js,YouTube Video,data|visualization
+The Visual Display of Quantitative Information,Edward R Tufte,https://a.co/d/05XLiWVM,Book,data|visualization
+"Science of Data Visualization: Bar, scatter plot, line, histograms, pie, box plots, bubble chart",Ryan Ahmed,https://youtu.be/csXmVBw8cdo,YouTube Video,data|visualization
+The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,Nate Silver,https://a.co/d/01y1bmsS,Book,data|predictiveAnalytics
+The Self-Taught Programmer: The Definitive Guide to Programming Professionally,Cory Althoff,https://a.co/d/07zcy3gT,Book,programming|selfLearning
